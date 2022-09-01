@@ -6,6 +6,7 @@ import androidx.multidex.MultiDexApplication;
 import com.facebook.hermes.reactexecutor.HermesExecutorFactory;
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactApplication;
+import me.alwx.HttpServer.HttpServerReactPackage;
 import com.reactnativemodpow.ModpowPackage;
 import com.facebook.react.ReactInstanceManager;
 import com.facebook.react.ReactNativeHost;
